@@ -1,0 +1,7 @@
+print("=========bienvenidos a mi calculadora==========")
+a = input(" ingresa el primer numero:")
+b = input("ingresa el segundo numro:")
+a = int(a)
+b = int(b)
+print("la multipli es:,a/b ")
+print ("=============== gacias=============")
